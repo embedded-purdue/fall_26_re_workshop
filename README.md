@@ -73,4 +73,6 @@ From this point on, you should try to reverse engineer the password with the too
 
 Worth noting that in this case, you can always just toss the executable into Ghidra for a more full picture. In certain real scenarios, though, the firmware may be too complicated to analyze statically, or it may just be easier to see values at runtime (i.e. if things are allocated on the heap). These are perfect use-cases to runtime analysis.
 
+## 6. Continue on!
 
+If you find RE interesting and want to continue trying more puzzles, visit [crackmes](https://crackmes.one) for more! 
